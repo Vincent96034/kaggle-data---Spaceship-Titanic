@@ -1,4 +1,4 @@
-# kaggle-competition---Spaceship-Titanic
+# kaggle-data---Spaceship-Titanic
 EDA &amp; Classification
 
 **Objective was to predict if a person was sent to another dimension (detailed description see below).**
